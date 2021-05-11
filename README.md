@@ -1,6 +1,6 @@
 ### Oi, meu nome é Italo Andrade  👋🏾  👨‍💻 
 
-[<img src="https://ui-flutter-git.s3-sa-east-1.amazonaws.com/common/head-readme.jpg" width="100%"></img>](http://google.com.au/)
+[<img src="https://ui-flutter-git.s3-sa-east-1.amazonaws.com/common/head-readme-new.jpg" width="100%"></img>](http://google.com.au/)
 
 
 Oi , eu sou MCP microsoft e engenheiro de software formado pela Faculdade de Tecnologia de São Paulo com especialização na Unicamp  e apaixonado por tornar o código aberto mais acessível, criando projetos para ajudar as pessoas e contribuir para  comunidade do software livre do Brasil . Gosto de trabalhar com tecnologias como Vue, Ionic,Jquery,Python,Flutter, MongoDb,Sql Server,C#, NodeJs,Angular ,Electron,React, NextJs, NuxtJs,SqlLite.
